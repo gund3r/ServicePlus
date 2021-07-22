@@ -8,7 +8,7 @@ class SimpleClass(id: Int, description: String, kind: Option[Int]) {
       else return description
     }
 
-    def sumOfOddValues(sequence: List[Int]): Int = {
+    def sumOfOddValues(sequence: Seq[Int]): Int = {
       return sequence.filter(_ % 2 != 0).sum
     }
 
