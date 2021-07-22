@@ -1,4 +1,4 @@
-###Simple example of code on Scala
+### Simple example of code on Scala ###
 ***
 ### Running the tests ###
 
